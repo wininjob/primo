@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Titolo</title>
+		<title>Titolo1</title>
 	</head>
 	<body>
 		<?php echo 'ciao!!' ?>
