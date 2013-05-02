@@ -2,7 +2,7 @@
 /**
 * 
 */
-class ClassName extends AnotherClass
+class ClassNameFirtsWay extends AnotherClass
 {
 	
 	function __construct(argument)
